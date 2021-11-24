@@ -25,7 +25,7 @@ Here, soon, you'll see pictures of the memory board assembled !
 
 # About the project files <a name="About-the-project-files"></a>
 
-The complete project of the four layers is available here for downloading.
+The complete project of this four layers PCB is available here for downloading.
 
 The pcb has been designed with Kicad under Linux: https://www.kicad.org/
 
