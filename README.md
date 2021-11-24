@@ -11,8 +11,8 @@
 
 # 3D picture of the PCB <a name="3D-View"></a>
 
-![pcb-final](https://user-images.githubusercontent.com/80821708/135584468-13270c0e-cef6-4cf4-8371-452aca3065be.png)
-Final version of the pcb's adapter.
+![PCB Board](https://user-images.githubusercontent.com/80821708/143296017-c496af39-76a1-4e35-8a8e-abc80ebff179.png)
+The PCB of the 2MB board !
 
 # Why a four layers PCB <a name="Why"></a>
 This adapter is useful for programming PLS100 PLA with ALL-03 & ALL-07 programmers to replace the orignal PLA chip of the Commodore 64.
