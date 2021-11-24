@@ -15,23 +15,19 @@
 The PCB of the 2MB board !
 
 # Why a four layers PCB <a name="Why"></a>
-This adapter is useful for programming PLS100 PLA with ALL-03 & ALL-07 programmers to replace the orignal PLA chip of the Commodore 64.
+Four layers with two internal power layers (one GND & one VCC) is better for having the best stability possible.
 
-The schematic of the adapter has been made by Tinhead. Many thanks to him for his autorization of the publication of this adapter.
-
-For informations about the HI-LO universal parallel programmer, you can visit the following very interesting resources page made by Matthieu Benoit:
-http://matthieu.benoit.free.fr/hilosystem_all-07_universal_programmer.htm
+The original project is a two layers PCB designed by Daleking. Its link is available here:
+https://github.com/daleking/Amiga_A570_2MB
 
 # PCB assembled and installed into the A570 CD <a name="Pictures"></a>
 Here, soon, you'll see pictures of the memory board assembled !
 
 # About the project files <a name="About-the-project-files"></a>
-The original project is a two layers PCB. Its link is available here:
->Ici, mettre le lien du projet original<
 
 The complete project of the four layers is available here for downloading.
 
-The project has been made with Kicad: https://www.kicad.org/
+The pcb has been designed with Kicad under Linux: https://www.kicad.org/
 
 # BOM <a name="BOM"></a>
 Here is the BOM made by Lolof. Thanks to him !
