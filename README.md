@@ -1,5 +1,5 @@
 # A750-2MB-Memory-Board
-4 Layers PCB of the 2MB memory board for the A570 CD expansion which transforms an Amiga 500 into a CDTV.
+4 Layers PCB of the 2MB memory board for the A570 CD-ROM expansion which converts an Amiga 500 into a CDTV.
 
 # Table of contents
 1. [3D picture of the PCB](#3D-View)
