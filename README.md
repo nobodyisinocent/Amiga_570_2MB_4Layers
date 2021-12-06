@@ -21,11 +21,29 @@ The original project is a two layers PCB designed by Daleking. Its link is avail
 https://github.com/daleking/Amiga_A570_2MB
 
 # PCB assembled and installed into the A570 CD <a name="Pictures"></a>
-Here, soon, you'll see pictures of the memory board assembled !
+Some pictures of the A570 2MB momory board assembled and installed onto the A570 CDROM.
+These pictures are from from m0c aka m0xz0r. Thanks a lot to him. :-)
+
+![15faa6ae-da2f-4164-a6cd-629f1fc4fd1c](https://user-images.githubusercontent.com/80821708/144842788-84bfdbd2-ab74-42bf-ad99-5dc1440e5b1c.jpg)
+
+![b0e7dbab-04ca-4b85-99ef-c1e41b9204f9](https://user-images.githubusercontent.com/80821708/144842804-5cb29aba-1196-4da6-b4dc-c791981640f1.jpg)
+
+![9915e4c3-17a2-4d65-bf34-2be298b24b1e](https://user-images.githubusercontent.com/80821708/144842822-8e6b936b-0593-4f97-9a1e-8dd36ebe716b.jpg)
+
+As you can see onto the pictures, the capacitors aren't soldered. It's just for the test. These cpacitors are necessary for the decoupling.
+If you assemble this expansion, the capacitors will have to be soldered to obtain the best stability possible.
+
+Onto the pictures below, you can see that the board is runing fine.
+
+![e344f33f-6bc1-4d67-80e5-30b79a5ca414_resultat](https://user-images.githubusercontent.com/80821708/144845169-d863cc11-b604-4ac4-9f58-cd29576e6098.jpg)
+
+![09afdfdb-9596-4fb6-b5c1-57d9b2bf31d9_resultat](https://user-images.githubusercontent.com/80821708/144845212-6089620d-be7b-4f04-91cf-b438df2819f3.jpg)
+
+![4a56a2eb-dcbc-4c56-8fea-7ce89a8caf47_resultat](https://user-images.githubusercontent.com/80821708/144845224-fdd5442d-cdc6-4ffe-b444-3d7a3825a4cd.jpg)
 
 # About the project files <a name="About-the-project-files"></a>
 
-The complete project of this four layers PCB is available here for downloading.
+The complete project of this four layers PCB is available onto this repository for downloading.
 
 The pcb has been designed with Kicad under Linux: https://www.kicad.org/
 
