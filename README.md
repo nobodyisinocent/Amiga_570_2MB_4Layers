@@ -2,9 +2,9 @@
 4 Layers PCB of the 2MB memory board for the A570 CD-ROM expansion which converts an Amiga 500 into a CDTV.
 
 # Table of contents
-1. [Pcicture of the PCB in Kicad](#3D-View)
+1. [Pictures of the PCB in Kicad](#3D-View)
 2. [Why a four layers PCB](#Why)
-3. [PCB assembled and installed into the A570 CD](#Pictures)
+3. [PCB assembled and installed into the A570 CDROM](#Pictures)
 4. [About the project files](#About-the-project-files)
 6. [BOM](#BOM)
 
@@ -42,7 +42,7 @@ Four layers with two internal power layers (one GND & one VCC) is better for hav
 The original project is a two layers PCB designed by Daleking. Its link is available here:
 https://github.com/daleking/Amiga_A570_2MB
 
-# PCB assembled and installed into the A570 CD <a name="Pictures"></a>
+# PCB assembled and installed into the A570 CDROM <a name="Pictures"></a>
 Some pictures of the A570 2MB momory board assembled and installed onto the A570 CDROM.
 These pictures are from from m0c aka m0xz0r. Thanks a lot to him. :-)
 
