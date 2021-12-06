@@ -2,17 +2,39 @@
 4 Layers PCB of the 2MB memory board for the A570 CD-ROM expansion which converts an Amiga 500 into a CDTV.
 
 # Table of contents
-1. [3D picture of the PCB](#3D-View)
+1. [Pcicture of the PCB in Kicad](#3D-View)
 2. [Why a four layers PCB](#Why)
 3. [PCB assembled and installed into the A570 CD](#Pictures)
 4. [About the project files](#About-the-project-files)
 6. [BOM](#BOM)
 
 
-# 3D picture of the PCB <a name="3D-View"></a>
+# Pictures of the PCB in Kicad <a name="3D-View"></a>
+
+Front (Components) layer
+
+![Layer-1](https://user-images.githubusercontent.com/80821708/144846552-b889925a-0a85-4bc6-98f6-5b099e9fbbf8.png)
+
+
+GND layer
+
+![Layer-GND](https://user-images.githubusercontent.com/80821708/144846600-be56b236-0c7d-4ead-a12e-6e39ea7debb7.png)
+
+
+VCC layer
+
+![Layer-VCC](https://user-images.githubusercontent.com/80821708/144846642-ec702289-324c-4af5-a55f-34ef19cbf1cc.png)
+
+
+Back layer
+
+![Layer-4](https://user-images.githubusercontent.com/80821708/144846665-0a8b7b74-a93e-4939-b370-0913f63c6b76.png)
+
+
+The PCB in the 3D Viewer
 
 ![PCB Board](https://user-images.githubusercontent.com/80821708/143296017-c496af39-76a1-4e35-8a8e-abc80ebff179.png)
-The PCB of the 2MB board !
+
 
 # Why a four layers PCB <a name="Why"></a>
 Four layers with two internal power layers (one GND & one VCC) is better for having the best stability possible.
