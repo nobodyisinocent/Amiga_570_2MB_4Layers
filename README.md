@@ -1,7 +1,7 @@
 # A750 2MB Memory Board 4 layers PCB
 4 Layers PCB of the 2MB memory board for the A570 CD-ROM expansion which converts an Amiga 500 into a CDTV.
 
-The project files will be updated here very soon.
+The project files will be uploaded here very soon.
 
 # Table of contents
 1. [Pictures of the PCB in Kicad](#3D-View)
@@ -72,4 +72,4 @@ The complete project of this four layers PCB is available onto this repository f
 The pcb has been designed with Kicad under Linux: https://www.kicad.org/
 
 # BOM <a name="BOM"></a>
-Here will be the BOM very soon. :-)
+The BOM will be available here very soon. :-)
