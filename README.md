@@ -67,7 +67,7 @@ Onto the pictures below, you can see that the board is runing fine.
 
 # About the project files <a name="About-the-project-files"></a>
 
-The complete project of this four layers PCB is available onto this repository for downloading.
+The complete project of this four layers PCB will be available very soon onto this repository for downloading.
 
 The pcb has been designed with Kicad under Linux: https://www.kicad.org/
 
