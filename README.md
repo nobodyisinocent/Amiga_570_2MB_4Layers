@@ -74,3 +74,11 @@ The pcb has been designed with Kicad under Linux: https://www.kicad.org/
 
 # BOM <a name="BOM"></a>
 The BOM will be available here very soon. :-)
+
+|Id	|Designator	|Package	|Quantity	|Designation	|Link  |
+|---|---|---|---|---|---|
+|1	|U1 to U4      |	SOJ	|2	|HM514400CS7 |	|ebay, utsource & aliexpress are your friends ! |
+|2	|C1 to C4   |	SMD 1206	|4	|	|https://www.reichelt.com/fr/en/index.html?ACTION=446&LA=446&nbc=1&q=100%20nf%20g1206 |
+|3	|CN1	    |Female right angle 2x20 pin header		|1 |	|https://de.aliexpress.com/item/32758316130.html |
+|4	|Jumper    |Male right angle 1x02 pin header	|1	|	|https://fr.aliexpress.com/item/4000694229610.html |
+
