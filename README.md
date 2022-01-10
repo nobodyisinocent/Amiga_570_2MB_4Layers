@@ -46,8 +46,7 @@ Back layer
 
 The PCB in the 3D Viewer
 
-![PCB Board](https://user-images.githubusercontent.com/80821708/143296017-c496af39-76a1-4e35-8a8e-abc80ebff179.png)
-
+![Capture d’écran_2022-01-10_22-15-49](https://user-images.githubusercontent.com/80821708/148840654-83552b57-806d-463a-8bea-bfe32286e967.png)
 
 # Why a four layers PCB <a name="Why"></a>
 Four layers with two internal power layers (one GND & one VCC) is better for having the best stability possible.
