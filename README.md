@@ -16,22 +16,22 @@ The project files will be uploaded here very soon.
 
 Front (Components) layer
 
-![Layer-1](https://user-images.githubusercontent.com/80821708/144846552-b889925a-0a85-4bc6-98f6-5b099e9fbbf8.png)
+![Layer-1](https://user-images.githubusercontent.com/80821708/148837138-d1a8b375-6ec7-4138-aea1-799d3d1ba5c5.png)
 
 
 GND layer
 
-![Layer-GND](https://user-images.githubusercontent.com/80821708/144846600-be56b236-0c7d-4ead-a12e-6e39ea7debb7.png)
+![Layer-GND](https://user-images.githubusercontent.com/80821708/148837190-e5bf6acf-7753-4f80-85a1-783b2b866673.png)
 
 
 VCC layer
 
-![Layer-VCC](https://user-images.githubusercontent.com/80821708/144846642-ec702289-324c-4af5-a55f-34ef19cbf1cc.png)
+![Layer-VCC](https://user-images.githubusercontent.com/80821708/148837221-e7e1a17e-ea20-46fb-94e2-04f74e4c8e81.png)
 
 
 Back layer
 
-![Layer-4](https://user-images.githubusercontent.com/80821708/144846665-0a8b7b74-a93e-4939-b370-0913f63c6b76.png)
+![Layer-4](https://user-images.githubusercontent.com/80821708/148837252-b53b4aa6-532a-4e85-a7dc-c155f12fe4ba.png)
 
 
 The PCB in the 3D Viewer
@@ -77,7 +77,7 @@ The pcb has been designed with Kicad under Linux: https://www.kicad.org/
 |Id	|Designator	|Package	|Quantity	|Designation	|Link  |
 |---|---|---|---|---|---|
 |1	|U1 to U4      |	SOJ	|2	|HM514400CS7 |	|ebay, utsource & aliexpress are your friends ! |
-|2	|C1 to C4   |	SMD 1206	|4	|	|https://www.reichelt.com/fr/en/index.html?ACTION=446&LA=446&nbc=1&q=100%20nf%20g1206 |
+|2	|C1 to C4   |	SMD 0805	|4	|	|https://www.reichelt.com/fr/en/index.html?ACTION=446&LA=446&nbc=1&q=100%20nf%20g0805 |
 |3	|CN1	    |Female right angle 2x20 pin header		|1 |	|https://de.aliexpress.com/item/32758316130.html |
 |4	|Jumper    |Male right angle 1x02 pin header	|1	|	|https://fr.aliexpress.com/item/4000694229610.html |
 
