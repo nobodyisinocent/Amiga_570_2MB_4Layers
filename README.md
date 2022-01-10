@@ -73,7 +73,6 @@ The complete project of this four layers PCB will be available very soon onto th
 The pcb has been designed with Kicad under Linux: https://www.kicad.org/
 
 # BOM <a name="BOM"></a>
-The BOM will be available here very soon. :-)
 
 |Id	|Designator	|Package	|Quantity	|Designation	|Link  |
 |---|---|---|---|---|---|
