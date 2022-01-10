@@ -5,12 +5,22 @@ Gerber files already uploaded.
 The project files will be uploaded here very soon.
 
 # Table of contents
-1. [Pictures of the PCB in Kicad](#3D-View)
-2. [Why a four layers PCB](#Why)
-3. [PCB assembled and installed into the A570 CDROM](#Pictures)
-4. [About the project files](#About-the-project-files)
+1. [Last Revision of the A570 2MB RAM expansion](#Revision)
+2. [Pictures of the PCB in Kicad](#3D-View)
+3. [Why a four layers PCB](#Why)
+4. [PCB assembled and installed into the A570 CDROM](#Pictures)
+5. [About the project files](#About-the-project-files)
 6. [BOM](#BOM)
 
+# Last Revision of the A570 2MB RAM expansion <a name="Revision"></a>
+
+Release Date: 10/01/2022
+
+Distances between ICs are not the same,
+
+The capacitors are now 0805 mounting form,
+
+The pads of ICs footprints have been lengthened to facilitate the soldering of the ICs.
 
 # Pictures of the PCB in Kicad <a name="3D-View"></a>
 
@@ -49,13 +59,15 @@ https://github.com/daleking/Amiga_A570_2MB
 Some pictures of the A570 2MB momory board assembled and installed onto the A570 CDROM.
 These pictures are from from m0c aka m0xz0r. Thanks a lot to him. :-)
 
-![15faa6ae-da2f-4164-a6cd-629f1fc4fd1c](https://user-images.githubusercontent.com/80821708/144842788-84bfdbd2-ab74-42bf-ad99-5dc1440e5b1c.jpg)
+![Capture d’écran_2022-01-10_21-58-15](https://user-images.githubusercontent.com/80821708/148838726-770fdd8c-aa70-4734-90b2-16cb79261f94.png)
 
-![b0e7dbab-04ca-4b85-99ef-c1e41b9204f9](https://user-images.githubusercontent.com/80821708/144842804-5cb29aba-1196-4da6-b4dc-c791981640f1.jpg)
+![Capture d’écran_2022-01-10_21-54-59](https://user-images.githubusercontent.com/80821708/148838758-2fbe66a6-0df1-4b3b-932d-c06703f070c9.png)
+
+Onto the two pictures above, you can see the pcb with same distances between all ICs. If you take a look at the picture below, you'll see that the distance wasn't the same between the ICs...
 
 ![9915e4c3-17a2-4d65-bf34-2be298b24b1e](https://user-images.githubusercontent.com/80821708/144842822-8e6b936b-0593-4f97-9a1e-8dd36ebe716b.jpg)
 
-As you can see onto the pictures, the capacitors aren't soldered. It's just for the test. These cpacitors are necessary for the decoupling.
+As you can see onto the picture above, the capacitors aren't soldered. It's just for the test. These cpacitors are necessary for the decoupling.
 If you assemble this expansion, the capacitors will have to be soldered to obtain the best stability possible.
 
 Onto the pictures below, you can see that the board is runing fine.
