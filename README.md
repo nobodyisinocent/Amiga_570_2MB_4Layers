@@ -5,14 +5,14 @@ Gerber files already uploaded.
 The project files will be uploaded here very soon.
 
 # Table of contents
-1. [Last Revision of the A570 2MB RAM expansion](#Revision)
-2. [Pictures of the PCB in Kicad](#3D-View)
-3. [Why a four layers PCB](#Why)
-4. [PCB assembled and installed into the A570 CDROM](#Pictures)
-5. [About the project files](#About-the-project-files)
-6. [BOM](#BOM)
+1. [Last Revision of the A570 2MB RAM expansion](#1)
+2. [Pictures of the PCB in Kicad](#2)
+3. [Why a four layers PCB](#3)
+4. [PCB assembled and installed into the A570 CDROM](#4)
+5. [About the project files](#5)
+6. [BOM](#6)
 
-# Last Revision of the A570 2MB RAM expansion <a name="Revision"></a>
+# Last Revision of the A570 2MB RAM expansion <a name="1"></a>
 
 Release Date: 10/01/2022
 
@@ -22,7 +22,7 @@ The capacitors are now 0805 mounting form,
 
 The pads of ICs footprints have been lengthened to facilitate the soldering of the ICs.
 
-# Pictures of the PCB in Kicad <a name="3D-View"></a>
+# Pictures of the PCB in Kicad <a name="2"></a>
 
 Front (Components) layer
 
@@ -48,13 +48,13 @@ The PCB in the 3D Viewer
 
 ![Capture d’écran_2022-01-10_22-15-49](https://user-images.githubusercontent.com/80821708/148840654-83552b57-806d-463a-8bea-bfe32286e967.png)
 
-# Why a four layers PCB <a name="Why"></a>
+# Why a four layers PCB <a name="3"></a>
 Four layers with two internal power layers (one GND & one VCC) is better for having the best stability possible.
 
 The original project is a two layers PCB designed by Daleking. Its link is available here:
 https://github.com/daleking/Amiga_A570_2MB
 
-# PCB assembled and installed into the A570 CDROM <a name="Pictures"></a>
+# PCB assembled and installed into the A570 CDROM <a name="4"></a>
 Some pictures of the A570 2MB momory board assembled and installed onto the A570 CDROM.
 These pictures are from from m0c aka m0xz0r. Thanks a lot to him. :-)
 
@@ -77,13 +77,13 @@ Onto the pictures below, you can see that the board is runing fine.
 
 ![4a56a2eb-dcbc-4c56-8fea-7ce89a8caf47_resultat](https://user-images.githubusercontent.com/80821708/144845224-fdd5442d-cdc6-4ffe-b444-3d7a3825a4cd.jpg)
 
-# About the project files <a name="About-the-project-files"></a>
+# About the project files <a name="5"></a>
 
 The complete project of this four layers PCB will be available very soon onto this repository for downloading.
 
 The pcb has been designed with Kicad under Linux: https://www.kicad.org/
 
-# BOM <a name="BOM"></a>
+# BOM <a name="6"></a>
 
 |Id	|Designator	|Package	|Quantity	|Designation	|Link  |
 |---|---|---|---|---|---|
